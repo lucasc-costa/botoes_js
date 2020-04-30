@@ -1,2 +1,2 @@
 # botoes_js
- teste de mudança na aperencia utilizando js
+ teste de mudança na aparencia utilizando js
